@@ -33,7 +33,7 @@ well with other _e-ink_ Kindle devices
 
 The dictionary will *not* work well on _Kindle Fire_ or _Kindle Android App_,
 or any Android based Kindle, because the Kindle software on those platforms
-does not support inflection lookups. **Note:** As a workaround, we have added a parameter that allows to build an special version of the dictionary whith the inflected forms indexed as alternate readings, they will not work fully as inflections,
+does not support inflection lookups. **Note:** As a workaround, we have added a parameter that allows to build an special version of the dictionary with the inflected forms indexed as alternate readings, they will not work fully as inflections,
 but at least they will be found and the main word should be shown.
 
 
