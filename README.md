@@ -43,6 +43,7 @@ Download
 You can download the latest version of the dictionary from
 [here](https://github.com/jrfonseca/jmdict-kindle/releases).
 
+Workaround version for apps or devices not supporting inflections (i.e. Android app): [workaround](https://github.com/xelloss1012/jmdict-kindle/releases/tag/3.0.20220129-workaround)
 
 Install
 =======
