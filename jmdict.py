@@ -270,7 +270,7 @@ class JMdictParser(XmlParser):
         orthos_with_inflections = []
         for ortho in orthos:
             # Add current ortho
-            orthos_with_inflections.append(orthos_with_inflections)
+            orthos_with_inflections.append(ortho)
             # Don't try to inflect katakana words
             if not is_katakana(ortho.value):
                 for pos in posses:
